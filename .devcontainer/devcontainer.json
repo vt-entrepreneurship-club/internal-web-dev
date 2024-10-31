@@ -1,10 +1,10 @@
 {
   "name": "Node.js",
   // Using default Node.js template, no need for additional features
-  
+
   // Combined commands to use npm
   "postCreateCommand": "mv .env.example .env && npm install && npm run dev",
-  
+
   "customizations": {
     "vscode": {
       "settings": {
